@@ -7,14 +7,14 @@ const headerHTML = `
         <div class="container">
             <div class="flex">
                 <!-- Logo -->
-                <a href="index.html" class="logo">
-                    <img src="assets/images/english-booster-logo-merah.png" alt="English Booster Logo" class="logo-image">
+                <a href="" class="logo">
+                    <img src="https://cdn.jsdelivr.net/gh/ebadvertiser/eb-assets@main/ebdotid/english-booster-logo-merah.png" alt="English Booster Logo" class="logo-image">
                     <h1>English Booster</h1>
                 </a>
                 
                 <!-- Desktop Navigation -->
                 <div class="desktop-nav-container">
-                    <a href="index.html" class="desktop-nav-item">Beranda</a>
+                    <a href="" class="desktop-nav-item">Beranda</a>
                     <div class="desktop-nav-item dropdown-parent">
                         Program
                         <i class="fas fa-chevron-down dropdown-icon"></i>
@@ -84,7 +84,7 @@ const headerHTML = `
     <div class="mobile-nav-backdrop" id="mobile-nav-backdrop"></div>
     <div class="mobile-nav-bg" id="mobile-nav">
         <div class="p-6">
-            <a href="index.html" class="mobile-nav-item">Beranda</a>
+            <a href="" class="mobile-nav-item">Beranda</a>
             <div class="mobile-dropdown-parent">
                 <div class="mobile-nav-item mobile-dropdown-toggle">
                     Program
